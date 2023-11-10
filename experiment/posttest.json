@@ -2,38 +2,43 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Smart contracts are designed to:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Only handle cryptocurrency transactions",
+        "b": "Automatically execute predefined actions when conditions are met",
+        "c": "Replace traditional legal contracts",
+        "d": "Operate offline without the need for a blockchain"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
+    
+    ,
+    {
+      "question": "Which of the following is NOT a key advantage of using smart contracts?",
+      "answers": {
+        "a": "Trustless and tamper-proof",
+        "b": "Reduced transaction costs",
+        "c": "Instant execution of contract terms",
+        "d": "Human intervention required for execution"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+    ,
+    {
+      "question": "Which of the following is NOT a key advantage of using smart contracts?",
+      "answers": {
+        "a": "Trustless and tamper-proof",
+        "b": "Reduced transaction costs",
+        "c": "Instant execution of contract terms",
+        "d": "Human intervention required for execution"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+    
+    
+    
   ]
 }
