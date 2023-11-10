@@ -2,38 +2,40 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the primary blockchain platform for creating and executing smart contracts?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Ethereum",
+        "b": "Bitcoin",
+        "c": "Ripple",
+        "d": "Litecoin"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
-    },
+    }
+    ,
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which programming language is commonly used to write smart contracts on the Ethereum blockchain?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Java",
+        "b": "Python",
+        "c": "Solidity",
+        "d": "C++"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "Smart contracts are designed to:",
+      "answers": {
+        "a": "Only handle cryptocurrency transactions",
+        "b": "Automatically execute predefined actions when conditions are met",
+        "c": "Replace traditional legal contracts",
+        "d": "Operate offline without the need for a blockchain"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
+    
+    
   ]
 }
