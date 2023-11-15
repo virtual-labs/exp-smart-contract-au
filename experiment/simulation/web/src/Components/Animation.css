@@ -1,0 +1,66 @@
+/* Default styles */
+body {
+    margin: 0;
+  }
+  
+  #root {
+    height: 100%;
+  }
+  
+  .animation-container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    height: 99.98vh;
+  }
+  
+  .animation-title {
+    color: white;
+    padding-top: 40px;
+    margin: 0;
+    flex: 0.1;
+  }
+  
+  .animation-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 0.9;
+  }
+  
+  .animation-video {
+    width: 100%;
+    max-width: 1200px;
+    height: auto;
+    margin-top: 20px;
+  }
+  
+  .button-container {
+    margin-top: 20px;
+    margin-left: 50%;
+  }
+  
+  /* Media Query for Laptops */
+  @media only screen and (max-width: 1500px) {
+    .animation-container {
+      height: 60%
+    }
+  
+    .animation-content {
+      align-items: flex-start;
+    }
+  
+    .animation-title {
+      padding-top: 20px;
+    }
+  
+    .animation-video {
+      max-width: 70%;
+     
+    }
+  
+    .button-container {
+      margin-left: 0;
+    }
+  }
+  

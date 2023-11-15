@@ -1,0 +1,124 @@
+* {
+  background-color: #022027;
+}
+
+.inputbox {
+  width: 250px;
+  height: auto;
+  border: 1px solid rgb(10, 137, 187);
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.money-input-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.money-input {
+  width: 200px;
+  height: auto;
+  border: 1px solid rgb(10, 137, 187);
+  border-radius: 4px;
+  padding: 5px;
+  font-size: 16px;
+  background: transparent;
+  color: white;
+  margin-top: 5%;
+}
+
+.submit-button {
+  width: 150px;
+  height: auto;
+  background: transparent;
+  border: 1px solid rgb(10, 137, 187);
+  color: rgb(10, 137, 187);
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.submit-button:hover {
+  background: #007bff;
+  color: #fff;
+}
+
+.contract {
+  margin-top: 30%;
+}
+
+@media only screen and (max-width: 1400px) {
+  .inputbox {
+    margin-left: 20px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .money-input-container {
+    align-items: flex-start;
+    width: 250px;
+  }
+
+  .money-input {
+    width: 128px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .submit-button {
+    width: 130px;
+    height: auto;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+@media only screen and (max-width: 1600px) and (min-width: 1400px) {
+  .inputbox {
+    margin-left: 20px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .money-input-container {
+    align-items: flex-start;
+    width: 250px;
+  }
+
+  .money-input {
+    width: 128px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left:20px
+  
+  }
+
+  .submit-button {
+    width: 130px;
+    height: auto;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left:20px
+  
+  }
+}
