@@ -1,0 +1,10 @@
+html,body{
+  background-color: #022027;
+}
+.col-md-2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+
+}
