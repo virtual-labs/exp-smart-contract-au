@@ -1,0 +1,44 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Smart contracts are designed to:",
+      "answers": {
+        "a": "Only handle cryptocurrency transactions",
+        "b": "Automatically execute predefined actions when conditions are met",
+        "c": "Replace traditional legal contracts",
+        "d": "Operate offline without the need for a blockchain"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+    
+    ,
+    {
+      "question": "Which of the following is NOT a key advantage of using smart contracts?",
+      "answers": {
+        "a": "Trustless and tamper-proof",
+        "b": "Reduced transaction costs",
+        "c": "Instant execution of contract terms",
+        "d": "Human intervention required for execution"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+    ,
+    {
+      "question": "Which of the following is NOT a key advantage of using smart contracts?",
+      "answers": {
+        "a": "Trustless and tamper-proof",
+        "b": "Reduced transaction costs",
+        "c": "Instant execution of contract terms",
+        "d": "Human intervention required for execution"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+    
+    
+    
+  ]
+}
