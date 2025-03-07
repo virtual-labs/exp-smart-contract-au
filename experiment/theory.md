@@ -1,31 +1,15 @@
 ### Theory 
-<h5>Smart Contract
-</h5>
-A smart contract is a computer program or a transaction protocol that is intended to automatically execute, control or document events and actions according to the terms of a contract or an agreement. Smart contracts are typically stored on a blockchain, which is a distributed ledger that is secure and tamper-proof.
-<br><br>
-<center>
-    <img src="./images/sm-1.png" alt="" width="500" height="300">
-</center>
-<h5>How does the smart contract works</h5>
-<p>A smart contract is a sort of program that encodes business logic and operates on a dedicated virtual machine embedded in a blockchain or other distributed ledger.
+<h5>Smart Contracts</h5>
+A smart contract is a self-executing program stored on a blockchain that automatically carries out actions based on predefined rules. It eliminates the need for intermediaries by ensuring trust, security, and transparency through a tamper-proof, decentralized ledger.
 
-  <p>   Step 1: Business teams collaborate with developers to define their criteria for the smart contract's desired behavior in response to certain events or circumstances.
-</p> 
-    <p>    Step 2: Conditions such as payment authorization, shipment receipt, or a utility meter reading threshold are examples of simple events.
-    </p>
-    <p>    Step 3: More complex operations, such as determining the value of a derivative financial instrument, or automatically releasing an insurance payment, might be encoded using more sophisticated logic.
-    </p>
-    <p>    Step 4: The developers then use a smart contract writing platform to create and test the logic. After the application is written, it is sent to a separate team for security testing.
-    </p>
-    <p>    Step 5: An internal expert or a company that specializes in vetting smart contract security could be used.
-    </p>
-    <p>    Step 6: The contract is then deployed on an existing blockchain or other distributed ledger infrastructure once it has been authorized.
-    </p>
-    <p>    Step 7: The smart contract is configured to listen for event updates from an "oracle," which is effectively a cryptographically secure streaming data source, once it has been deployed.
-    </p>
-    <p>    Step 8: Once it obtains the necessary combination of events from one or more oracles, the smart contract executes.</p></p>
-    
-    
-    
-    
-    
+<h5>How Smart Contracts Work</h5>
+<p>Smart contracts are like digital agreements that run on a blockchain. They follow a clear process to handle tasks like transferring money or verifying deals without a middleman:</p>
+
+<p>Step 1: People decide the rules for the smart contract, such as "send money when a task is done."</p>
+<p>Step 2: Developers write these rules into a program using a special coding language.</p>
+<p>Step 3: The program is tested to make sure it works correctly and securely.</p>
+<p>Step 4: Once ready, the smart contract is placed on a blockchain, where it can’t be changed.</p>
+<p>Step 5: The smart contract waits for a trigger, like a payment or a message from a trusted source called an "oracle."</p>
+<p>Step 6: When the conditions are met, the smart contract runs automatically, and the blockchain updates with the result like transferring money from one user to another.</p>
+
+<p>This process ensures that actions happen exactly as planned, with all computers on the blockchain agreeing on the outcome, making it fast, safe, and reliable.</p>
