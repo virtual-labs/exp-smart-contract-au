@@ -1,0 +1,61 @@
+{
+  "version": 2.0,
+  "questions": [
+    
+    {
+      "question": "Why do smart contracts work without a middleman?",
+      "answers": {
+        "a": "They use a blockchain",
+        "b": "They need a bank",
+        "c": "They are written on paper",
+        "d": "They only work offline"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What happens when a smart contract’s rules are met?",
+      "answers": {
+        "a": "It stops working",
+        "b": "It runs by itself",
+        "c": "It needs permission",
+        "d": "It gets deleted"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How does blockchain keep money transfers safe?",
+      "answers": {
+        "a": "By hiding them from everyone",
+        "b": "By sharing records with many computers",
+        "c": "By using one central computer",
+        "d": "By locking wallets"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What makes blockchain transactions hard to change?",
+      "answers": {
+        "a": "They are secret",
+        "b": "They are locked once added",
+        "c": "They can be edited anytime",
+        "d": "They are stored offline"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What do computers in a blockchain agree on?",
+      "answers": {
+        "a": "The weather",
+        "b": "The list of transactions",
+        "c": "The price of coins",
+        "d": "The user’s name"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

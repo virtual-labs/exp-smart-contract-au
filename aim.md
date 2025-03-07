@@ -1,0 +1,2 @@
+### Aim of the experiment
+Explore the concept of smart contracts, decentralized fund transfers through smart contracts, and network consensus to understand how blockchain technology enables secure, transparent, and automated financial transactions without intermediaries.
