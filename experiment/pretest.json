@@ -1,41 +1,61 @@
 {
   "version": 2.0,
   "questions": [
+    
     {
-      "question": "What is the primary blockchain platform for creating and executing smart contracts?",
+      "question": "Why do smart contracts work without a middleman?",
       "answers": {
-        "a": "Ethereum",
-        "b": "Bitcoin",
-        "c": "Ripple",
-        "d": "Litecoin"
+        "a": "They use a blockchain",
+        "b": "They need a bank",
+        "c": "They are written on paper",
+        "d": "They only work offline"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
-    }
-    ,
+    },
     {
-      "question": "Which programming language is commonly used to write smart contracts on the Ethereum blockchain?",
+      "question": "What happens when a smart contract’s rules are met?",
       "answers": {
-        "a": "Java",
-        "b": "Python",
-        "c": "Solidity",
-        "d": "C++"
+        "a": "It stops working",
+        "b": "It runs by itself",
+        "c": "It needs permission",
+        "d": "It gets deleted"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "Smart contracts are designed to:",
+      "question": "How does blockchain keep money transfers safe?",
       "answers": {
-        "a": "Only handle cryptocurrency transactions",
-        "b": "Automatically execute predefined actions when conditions are met",
-        "c": "Replace traditional legal contracts",
-        "d": "Operate offline without the need for a blockchain"
+        "a": "By hiding them from everyone",
+        "b": "By sharing records with many computers",
+        "c": "By using one central computer",
+        "d": "By locking wallets"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What makes blockchain transactions hard to change?",
+      "answers": {
+        "a": "They are secret",
+        "b": "They are locked once added",
+        "c": "They can be edited anytime",
+        "d": "They are stored offline"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What do computers in a blockchain agree on?",
+      "answers": {
+        "a": "The weather",
+        "b": "The list of transactions",
+        "c": "The price of coins",
+        "d": "The user’s name"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     }
-    
-    
   ]
 }
