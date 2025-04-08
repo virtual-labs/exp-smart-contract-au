@@ -1,58 +1,68 @@
 {
   "version": 2.0,
   "questions": [
-    
     {
-      "question": "Why do smart contracts work without a middleman?",
+      "question": "What is the primary function of a smart contract?",
       "answers": {
-        "a": "They use a blockchain",
-        "b": "They need a bank",
-        "c": "They are written on paper",
-        "d": "They only work offline"
+        "a": "To automatically execute agreements based on coded rules",
+        "b": "To store cryptocurrency in a digital wallet",
+        "c": "To connect devices like a Raspberry Pi to the internet",
+        "d": "To encrypt data for secure storage"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "What happens when a smart contract’s rules are met?",
+      "question": "What is a key benefit of using smart contracts?",
       "answers": {
-        "a": "It stops working",
-        "b": "It runs by itself",
-        "c": "It needs permission",
-        "d": "It gets deleted"
+        "a": "They require constant human supervision",
+        "b": "They reduce the need for intermediaries like banks",
+        "c": "They only work with physical contracts",
+        "d": "They increase transaction costs"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "How does blockchain keep money transfers safe?",
+      "question": "Where are smart contracts typically stored and executed?",
       "answers": {
-        "a": "By hiding them from everyone",
-        "b": "By sharing records with many computers",
-        "c": "By using one central computer",
-        "d": "By locking wallets"
+        "a": "On a single computer",
+        "b": "On a decentralized blockchain network",
+        "c": "In a smartphone app",
+        "d": "On a USB drive"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "What makes blockchain transactions hard to change?",
+      "question": "What must happen for a smart contract to perform an action?",
       "answers": {
-        "a": "They are secret",
-        "b": "They are locked once added",
-        "c": "They can be edited anytime",
-        "d": "They are stored offline"
+        "a": "A user must manually approve it",
+        "b": "Its predefined conditions must be met",
+        "c": "It needs to be rewritten each time",
+        "d": "It must connect to a central server"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "What do computers in a blockchain agree on?",
+      "question": "Which of these is an example of a smart contract use case?",
       "answers": {
-        "a": "The weather",
-        "b": "The list of transactions",
-        "c": "The price of coins",
-        "d": "The user’s name"
+        "a": "Sending a text message via Bluetooth",
+        "b": "Automatically transferring payment when a delivery is confirmed",
+        "c": "Charging a phone battery",
+        "d": "Printing a document"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Who can see the code of a smart contract on a public blockchain?",
+      "answers": {
+        "a": "Only the person who wrote it",
+        "b": "Anyone with access to the blockchain",
+        "c": "Only government officials",
+        "d": "Only the bank managing it"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
