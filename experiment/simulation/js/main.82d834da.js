@@ -41328,7 +41328,7 @@
               };
               i(
                 V(
-                  "Transaction Initiation",
+                  "Transaction initiation",
                   new Tt(-1.5, 3.5, 0),
                   4e3,
                   0.25,
@@ -41337,7 +41337,7 @@
               ),
                 setTimeout(function () {
                   V(
-                    "Transaction Process",
+                    "Transaction Process ",
                     new Tt(-1.5, 3.5, 0),
                     2e5,
                     0.25,
@@ -41346,7 +41346,7 @@
                 }, 4e3),
                 i(
                   V(
-                    "Step 1: Sender initiates the transaction to the receiver",
+                    "Step 1: User 1 initiates the transaction to User 2",
                     new Tt(1.9, 3, 0),
                     4e3,
                     0.15
@@ -41354,7 +41354,7 @@
                 ),
                 setTimeout(function () {
                   V(
-                    "Step 2: Node 1 takes on the role of a miner. The", // Corrected "minor" to "miner", added space after colon
+                    "Step 2: Node 1 takes on the role of a minor.The",
                     new Tt(1.9, 3, 0),
                     1e4,
                     0.15
@@ -41362,7 +41362,7 @@
                 }, 4e3),
                 setTimeout(function () {
                   V(
-                    "miner adds the newly mined block to the ledger", // Corrected "minor" to "miner", removed extra spaces
+                    "minor adds the newly mined  block to the ledger  ",
                     new Tt(1.9, 2.8, 0),
                     1e4,
                     0.15
@@ -41370,7 +41370,7 @@
                 }, 4e3),
                 setTimeout(function () {
                   V(
-                    "and distributes it to all nodes in the network", // No changes needed
+                    "and distributes it to all nodes in the network",
                     new Tt(1.9, 2.6, 0),
                     1e4,
                     0.15
@@ -41378,7 +41378,7 @@
                 }, 4e3),
                 setTimeout(function () {
                   V(
-                    "Step 3: Transaction completed", // Added space after colon, removed extra space before "completed"
+                    "Step 3: Transaction  completed",
                     new Tt(1.9, 3, 0),
                     4e3,
                     0.15
@@ -42229,7 +42229,7 @@
                   n.push(o);
               })(
                 "Smart Contract- Transaction Process",
-                new Tt(-2, 3.3, 0),
+                new Tt(-2, 3, 0),
                 0.2,
                 "red"
               )
