@@ -1,0 +1,60 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Smart contracts are designed to:",
+      "answers": {
+        "a": "Only handle cryptocurrency transactions",
+        "b": "Automatically execute predefined actions when conditions are met",
+        "c": "Replace traditional legal contracts",
+        "d": "Operate offline without the need for a blockchain"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is NOT a key advantage of using smart contracts?",
+      "answers": {
+        "a": "Trustless and tamper-proof",
+        "b": "Reduced transaction costs",
+        "c": "Instant execution of contract terms",
+        "d": "Human intervention required for execution"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What role does an oracle play in a smart contract?",
+      "answers": {
+        "a": "It writes the contract’s code",
+        "b": "It provides external data to trigger the contract",
+        "c": "It stores the contract offline",
+        "d": "It manually approves each transaction"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why can’t a smart contract be changed after it’s deployed on a blockchain?",
+      "answers": {
+        "a": "It’s locked by a central authority",
+        "b": "The blockchain’s design makes it immutable",
+        "c": "It requires a password to edit",
+        "d": "It’s deleted after deployment"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is an example of a condition that might trigger a smart contract?",
+      "answers": {
+        "a": "A user turning on their computer",
+        "b": "Receiving a confirmation of a package delivery",
+        "c": "Manually signing a paper document",
+        "d": "Changing the contract’s code"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
