@@ -71788,7 +71788,7 @@ function gW({ phase: n }) {
           e === "2d"
             ? {
                 position: [0, 0, 10],
-                zoom: 50,
+                zoom: 30,
                 up: [0, 1, 0],
                 near: 0.1,
                 far: 1e3,
@@ -71994,7 +71994,7 @@ function xW() {
                 n === "2d"
                   ? {
                       position: [0, 10, 0],
-                      zoom: 50,
+                      zoom: 30,
                       up: [0, 1, 0],
                       near: 0.1,
                       far: 1e3,
