@@ -1,2 +1,2 @@
-### Aim of the experiment
-Explore the smart contracts concept ,Decentralized Fund Transfers through Smart Contracts and Network Consensus
+Create and Deploy a smart contract (implementation of data addition and data 
+retrieval in smart contract)
