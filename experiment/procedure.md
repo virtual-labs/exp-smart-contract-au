@@ -52,7 +52,7 @@
 
 
 
-<h3>Procedure</h3>
+
 
 <p>1. You can watch the animated video to learn how to create and deploy a smart contract, then click the Go to Simulation button to start the simulation.</p>
 <img src="./images/1.png" alt="" width="60%">
