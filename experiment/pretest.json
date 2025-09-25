@@ -2,70 +2,40 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What is the primary function of a smart contract?",
+      "question": "What is the primary blockchain platform for creating and executing smart contracts?",
       "answers": {
-        "a": "To automatically execute agreements based on coded rules",
-        "b": "To store cryptocurrency in a digital wallet",
-        "c": "To connect devices like a Raspberry Pi to the internet",
-        "d": "To encrypt data for secure storage"
+        "a": "Ethereum",
+        "b": "Bitcoin",
+        "c": "Ripple",
+        "d": "Litecoin"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
-    },
+    }
+    ,
     {
-      "question": "What is a key benefit of using smart contracts?",
+      "question": "Which programming language is commonly used to write smart contracts on the Ethereum blockchain?",
       "answers": {
-        "a": "They require constant human supervision",
-        "b": "They reduce the need for intermediaries like banks",
-        "c": "They only work with physical contracts",
-        "d": "They increase transaction costs"
+        "a": "Java",
+        "b": "Python",
+        "c": "Solidity",
+        "d": "C++"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "Where are smart contracts typically stored and executed?",
+      "question": "Smart contracts are designed to:",
       "answers": {
-        "a": "On a single computer",
-        "b": "On a decentralized blockchain network",
-        "c": "In a smartphone app",
-        "d": "On a USB drive"
-      },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "What must happen for a smart contract to perform an action?",
-      "answers": {
-        "a": "A user must manually approve it",
-        "b": "Its predefined conditions must be met",
-        "c": "It needs to be rewritten each time",
-        "d": "It must connect to a central server"
-      },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "Which of these is an example of a smart contract use case?",
-      "answers": {
-        "a": "Sending a text message via Bluetooth",
-        "b": "Automatically transferring payment when a delivery is confirmed",
-        "c": "Charging a phone battery",
-        "d": "Printing a document"
-      },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "Who can see the code of a smart contract on a public blockchain?",
-      "answers": {
-        "a": "Only the person who wrote it",
-        "b": "Anyone with access to the blockchain",
-        "c": "Only government officials",
-        "d": "Only the bank managing it"
+        "a": "Only handle cryptocurrency transactions",
+        "b": "Automatically execute predefined actions when conditions are met",
+        "c": "Replace traditional legal contracts",
+        "d": "Operate offline without the need for a blockchain"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     }
+    
+    
   ]
 }

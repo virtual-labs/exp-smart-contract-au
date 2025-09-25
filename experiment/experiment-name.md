@@ -1,1 +1,1 @@
-## Smart Contract: Decentralized Fund Transfer and Network Confirmation
+## Smart Contract
