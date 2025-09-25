@@ -1,4 +1,4 @@
-### Theory 
+
 ##### Smart Contracts
 A smart contract is a self-executing program stored on a blockchain that automatically carries out actions based on predefined rules. It eliminates the need for intermediaries by ensuring trust, security, and transparency through a tamper-proof, decentralized ledger. These contracts are written as code and run without human intervention once deployed, making them efficient and reliable for tasks like payments or data sharing.
 
