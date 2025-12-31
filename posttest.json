@@ -1,0 +1,72 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What ensures that smart contracts execute exactly as programmed without tampering?",
+      "answers": {
+        "a": "Blockchain immutability and decentralized verification",
+        "b": "Manual auditing by all users",
+        "c": "Centralized servers controlled by one organization",
+        "d": "Encrypted local files on a personal computer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Which step comes first when creating a smart contract?",
+      "answers": {
+        "a": "Deciding rules and conditions with involved parties",
+        "b": "Deploying the code to the blockchain",
+        "c": "Testing the contract",
+        "d": "Waiting for a trigger to execute the contract"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why is testing important before deploying a smart contract?",
+      "answers": {
+        "a": "To ensure the code works correctly and securely, preventing errors or security flaws",
+        "b": "To allow parties to change conditions later",
+        "c": "To manually verify every transaction afterward",
+        "d": "To store the contract in a physical ledger"
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "How do smart contracts improve efficiency?",
+      "answers": {
+        "a": "By automating actions and reducing manual errors",
+        "b": "By generating physical products automatically",
+        "c": "By eliminating all digital records",
+        "d": "By requiring manual intervention at every step"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What makes smart contracts transparent?",
+      "answers": {
+        "a": "Every action is recorded on the blockchain, visible to participants",
+        "b": "Only the creator can see contract execution",
+        "c": "Transactions are hidden from all parties",
+        "d": "Contract execution happens offline without records"
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What happens after a smart contract is deployed on the blockchain?",
+      "answers": {
+        "a": "It becomes permanent, immutable, and ready to execute automatically when conditions are met",
+        "b": "It can be freely modified by anyone",
+        "c": "It waits for manual approval from all parties for every action",
+        "d": "It requires physical signatures to work"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+    
+  ]
+}
